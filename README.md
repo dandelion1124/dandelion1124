@@ -18,7 +18,6 @@ Hi there~👋</br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandelion1124&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandelion1124&layout=compact)](https://github.com/dandelion1124)
 
 </div> 
