@@ -4,7 +4,7 @@
  
 <br><br>
 Hi there~👋</br>
-:e-mail:5140lovelyl@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:5140lovelyl@gmail.com)
 
 ### ✨Languages and Tools✨
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=&logoColor=white"/></a>
